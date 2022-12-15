@@ -6,8 +6,10 @@
   
   ## Sprint review
   ### Quentin LIGNANI
+  
   Les avis**positifs**
-  ...1.
+  
+  1.
   2.
   3.
   4.
