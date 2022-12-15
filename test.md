@@ -1,6 +1,6 @@
   # Review Sprint 1
   
-  ### Planning
+  ## Planning
   
-  ### Change log
+  ## Change log
   
